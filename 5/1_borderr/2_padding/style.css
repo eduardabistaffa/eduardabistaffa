@@ -1,3 +1,8 @@
+* {
+  margin:0;
+}
+
+
 div {
         border: 4px dotted rgb(235, 45, 143);
         width: fit-content;
@@ -21,4 +26,19 @@ div {
     
     
         /*propriedades-extras*/
+    }
+    h1 {
+      border: 1px solid red;
+      margin-bottom: 20px;
+     
+    }
+
+    .algum {
+      margin-bottom: 100px;
+    }
+    .ultimo {
+      margin-bottom: 50px ;
+    }
+    .outro {
+      margin-inline: auto ;
     }
