@@ -1,0 +1,24 @@
+div {
+        border: 4px dotted rgb(235, 45, 143);
+        width: fit-content;
+        font-size: 25px;
+
+        padding-top: 10px;
+        padding-right: 20px;
+        padding-bottom: 30px;
+        padding-left: 40px;
+
+      
+        padding: 20px;
+        
+        padding: 3px 50px;
+         
+        padding: 20px 50px 5px;
+         
+        padding: 30px 50px 70px 90px;
+        padding-inline:40px ; 
+        padding-block:20px ; 
+    
+    
+        /*propriedades-extras*/
+    }
